@@ -1,0 +1,126 @@
+--Copyright (C) 1991-2008 Altera Corporation
+-- Your use of Altera Corporation's design tools, logic functions 
+-- and other software and tools, and its AMPP partner logic 
+-- functions, and any output files from any of the foregoing 
+-- (including device programming or simulation files), and any 
+-- associated documentation or information are expressly subject 
+-- to the terms and conditions of the Altera Program License 
+-- Subscription Agreement, Altera MegaCore Function License 
+-- Agreement, or other applicable license agreement, including, 
+-- without limitation, that your use is for the sole purpose of 
+-- programming logic devices manufactured by Altera and sold by 
+-- Altera or its authorized distributors.  Please refer to the 
+-- applicable agreement for further details.
+
+-- Quartus II generated Memory Initialization File (.mif)
+
+
+WIDTH=8;
+DEPTH=4096;
+
+ADDRESS_RADIX=HEX;
+DATA_RADIX=HEX;
+
+CONTENT BEGIN
+	0000  :  87;
+	0001  :  FF;
+	0002  :  95;
+	0003  :  87;
+	0004  :  C0;
+	0005  :  95;
+	0006  :  D6;
+	0007  :  42;
+	0008  :  00;
+	0009  :  87;
+	000A  :  F9;
+	000B  :  95;
+	000C  :  D6;
+	000D  :  42;
+	000E  :  00;
+	000F  :  87;
+	0010  :  A4;
+	0011  :  95;
+	0012  :  D6;
+	0013  :  42;
+	0014  :  00;
+	0015  :  87;
+	0016  :  B0;
+	0017  :  95;
+	0018  :  D6;
+	0019  :  42;
+	001A  :  00;
+	001B  :  87;
+	001C  :  99;
+	001D  :  95;
+	001E  :  D6;
+	001F  :  42;
+	0020  :  00;
+	0021  :  87;
+	0022  :  92;
+	0023  :  95;
+	0024  :  D6;
+	0025  :  42;
+	0026  :  00;
+	0027  :  87;
+	0028  :  82;
+	0029  :  95;
+	002A  :  D6;
+	002B  :  42;
+	002C  :  00;
+	002D  :  87;
+	002E  :  F8;
+	002F  :  95;
+	0030  :  D6;
+	0031  :  42;
+	0032  :  00;
+	0033  :  87;
+	0034  :  80;
+	0035  :  95;
+	0036  :  D6;
+	0037  :  42;
+	0038  :  00;
+	0039  :  87;
+	003A  :  90;
+	003B  :  95;
+	003C  :  D6;
+	003D  :  42;
+	003E  :  00;
+	003F  :  C8;
+	0040  :  03;
+	0041  :  00;
+	0042  :  70;
+	0043  :  87;
+	0044  :  32;
+	0045  :  D6;
+	0046  :  4F;
+	0047  :  00;
+	0048  :  0F;
+	0049  :  01;
+	004A  :  A0;
+	004B  :  45;
+	004C  :  00;
+	004D  :  78;
+	004E  :  DE;
+	004F  :  70;
+	0050  :  87;
+	0051  :  C8;
+	0052  :  70;
+	0053  :  87;
+	0054  :  29;
+	0055  :  0F;
+	0056  :  01;
+	0057  :  47;
+	0058  :  00;
+	0059  :  A0;
+	005A  :  55;
+	005B  :  00;
+	005C  :  78;
+	005D  :  0F;
+	005E  :  01;
+	005F  :  A0;
+	0060  :  52;
+	0061  :  00;
+	0062  :  78;
+	0063  :  DE;
+	[0064..0FFF]  :   00;
+END;

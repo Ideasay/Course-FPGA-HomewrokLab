@@ -1,0 +1,11 @@
+
+State Machine - |cpu|pc:PC0|state_gate
+Name state_gate.111 state_gate.110 state_gate.101 state_gate.100 state_gate.011 state_gate.010 state_gate.001 state_gate.000 
+state_gate.000 0 0 0 0 0 0 0 0 
+state_gate.001 0 0 0 0 0 0 1 1 
+state_gate.010 0 0 0 0 0 1 0 1 
+state_gate.011 0 0 0 0 1 0 0 1 
+state_gate.100 0 0 0 1 0 0 0 1 
+state_gate.101 0 0 1 0 0 0 0 1 
+state_gate.110 0 1 0 0 0 0 0 1 
+state_gate.111 1 0 0 0 0 0 0 1 

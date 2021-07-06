@@ -1,0 +1,31 @@
+# Copyright (C) 1991-2013 Altera Corporation
+# Your use of Altera Corporation's design tools, logic functions 
+# and other software and tools, and its AMPP partner logic 
+# functions, and any output files from any of the foregoing 
+# (including device programming or simulation files), and any 
+# associated documentation or information are expressly subject 
+# to the terms and conditions of the Altera Program License 
+# Subscription Agreement, Altera MegaCore Function License 
+# Agreement, or other applicable license agreement, including, 
+# without limitation, that your use is for the sole purpose of 
+# programming logic devices manufactured by Altera and sold by 
+# Altera or its authorized distributors.  Please refer to the 
+# applicable agreement for further details.
+
+# Quartus II 64-Bit Version 13.1.0 Build 162 10/23/2013 SJ Full Version
+# File: C:\Users\zhengxjie\Desktop\DE2_LAB\work\cpu\output_files\cpu.csv
+# Generated on: Wed Dec 30 10:26:51 2020
+
+# Note: The column header names should not be changed if you wish to import this .csv file into the Quartus II software.
+
+To,Direction,Location,I/O Bank,VREF Group,I/O Standard,Reserved,Current Strength,Slew Rate,Differential Pair
+sys_rst,Unknown,PIN_AB28,5,B5_N1,,,,,
+sys_clk,Unknown,PIN_Y2,2,B2_N0,3.3-V LVTTL,,,,
+p_out[0],Unknown,PIN_G18,7,B7_N2,,,,,
+p_out[1],Unknown,PIN_F22,7,B7_N0,,,,,
+p_out[2],Unknown,PIN_E17,7,B7_N2,,,,,
+p_out[3],Unknown,PIN_L26,6,B6_N1,,,,,
+p_out[4],Unknown,PIN_L25,6,B6_N1,,,,,
+p_out[5],Unknown,PIN_J22,6,B6_N0,,,,,
+p_out[6],Unknown,PIN_H22,6,B6_N0,,,,,
+p_out[7],Unknown,PIN_G21,7,B7_N1,,,,,

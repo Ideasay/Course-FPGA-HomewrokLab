@@ -1,0 +1,34 @@
+`timescale 1ns/1ns
+module cpu_tb;
+	reg sys_clk;
+	reg rstn;
+	wire [7:0] p_out;
+	reg [7:0] p_in;
+
+
+
+cpu u0 (
+	.sys_rst(rstn),
+	.sys_clk(sys_clk),
+    .p_in(p_in),
+    .p_out(p_out)
+);
+
+
+
+initial begin
+	#0 rstn <= 1'b1;
+    #1 rstn <= 1'b0;
+	#1 rstn <= 1'b1;
+	end
+
+initial begin
+	p_in <= 8'b11111111;
+end
+initial begin
+	#0 sys_clk <= 1'b0;
+	forever #5 sys_clk <= ~sys_clk;
+end
+
+
+endmodule

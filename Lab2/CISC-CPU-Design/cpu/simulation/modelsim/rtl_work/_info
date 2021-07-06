@@ -1,0 +1,147 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\zhengxjie\Desktop\DE2_LAB\work\cpu\simulation\modelsim
+vcpu
+IMQo41o?oVXR?C]EJT@zmI1
+VBQddQdjAkAC8noeN?c=nV1
+Z1 dC:\Users\zhengxjie\Desktop\DE2_LAB\work\cpu\simulation\modelsim
+w1609184921
+8C:/Users/zhengxjie/Desktop/DE2_LAB/work/cpu/cpu.v
+FC:/Users/zhengxjie/Desktop/DE2_LAB/work/cpu/cpu.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+31
+Z3 o-vlog01compat -work work -O0
+Z4 !s92 -vlog01compat -work work +incdir+C:/Users/zhengxjie/Desktop/DE2_LAB/work/cpu -O0
+!i10b 1
+!s100 PEX`m==G0f;4QX>IcM9V42
+!s85 0
+!s108 1609415338.434000
+!s107 C:/Users/zhengxjie/Desktop/DE2_LAB/work/cpu/cpu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/zhengxjie/Desktop/DE2_LAB/work/cpu|C:/Users/zhengxjie/Desktop/DE2_LAB/work/cpu/cpu.v|
+!s101 -O0
+vcpu_tb
+!i10b 1
+!s100 4GDgLHS^14WlO8a]aZg7I3
+IGzmIAL>76Tmz8^mXHWDX62
+V0P>[JOo>6KEkgKO=1CbUG0
+R1
+w1609415310
+8C:/Users/zhengxjie/Desktop/DE2_LAB/work/cpu/simulation/modelsim/cpu_tb.vt
+FC:/Users/zhengxjie/Desktop/DE2_LAB/work/cpu/simulation/modelsim/cpu_tb.vt
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1609415339.631000
+!s107 C:/Users/zhengxjie/Desktop/DE2_LAB/work/cpu/simulation/modelsim/cpu_tb.vt|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/zhengxjie/Desktop/DE2_LAB/work/cpu/simulation/modelsim|C:/Users/zhengxjie/Desktop/DE2_LAB/work/cpu/simulation/modelsim/cpu_tb.vt|
+!s101 -O0
+R3
+!s92 -vlog01compat -work work +incdir+C:/Users/zhengxjie/Desktop/DE2_LAB/work/cpu/simulation/modelsim -O0
+vctr
+I2i^f[:l0KSS7Q0B>bW[C42
+V<<AMZ_]70:IRIak;2BLcW1
+R1
+w1609185062
+8C:/Users/zhengxjie/Desktop/DE2_LAB/work/cpu/ctr.v
+FC:/Users/zhengxjie/Desktop/DE2_LAB/work/cpu/ctr.v
+L0 4
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 j6z1Nd;HNQ3ebFN8ULFI@2
+!s85 0
+!s108 1609415339.258000
+!s107 C:/Users/zhengxjie/Desktop/DE2_LAB/work/cpu/ctr.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/zhengxjie/Desktop/DE2_LAB/work/cpu|C:/Users/zhengxjie/Desktop/DE2_LAB/work/cpu/ctr.v|
+!s101 -O0
+vdatapath
+I0[SelIiiKo<YK@Be2k84;0
+VcaX0U0DUmhfEAjU8_F;N?0
+R1
+w1609184956
+8C:/Users/zhengxjie/Desktop/DE2_LAB/work/cpu/datapath.v
+FC:/Users/zhengxjie/Desktop/DE2_LAB/work/cpu/datapath.v
+L0 4
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 k?^JB;O0O3>O=16MCnS_@1
+!s85 0
+!s108 1609415338.948000
+!s107 C:/Users/zhengxjie/Desktop/DE2_LAB/work/cpu/datapath.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/zhengxjie/Desktop/DE2_LAB/work/cpu|C:/Users/zhengxjie/Desktop/DE2_LAB/work/cpu/datapath.v|
+!s101 -O0
+vpc
+I:BDhMoJdaX:<VPbm::12c0
+VNgAi6^8GAIiCU<a[i6?:R0
+R1
+w1609184970
+8C:/Users/zhengxjie/Desktop/DE2_LAB/work/cpu/pc.v
+FC:/Users/zhengxjie/Desktop/DE2_LAB/work/cpu/pc.v
+L0 4
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 @B1?PQKOoCXdDN5:MKkcL2
+!s85 0
+!s108 1609415338.691000
+!s107 C:/Users/zhengxjie/Desktop/DE2_LAB/work/cpu/pc.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/zhengxjie/Desktop/DE2_LAB/work/cpu|C:/Users/zhengxjie/Desktop/DE2_LAB/work/cpu/pc.v|
+!s101 -O0
+vRAM4KB
+I_ledNYeQSjEoH5=]PXSV82
+V4CF<9<kVnm5lVnNT1AFja2
+R1
+w1609294280
+8C:/Users/zhengxjie/Desktop/DE2_LAB/work/cpu/RAM4KB.v
+FC:/Users/zhengxjie/Desktop/DE2_LAB/work/cpu/RAM4KB.v
+L0 39
+R2
+r1
+31
+R3
+n@r@a@m4@k@b
+R4
+!i10b 1
+!s100 iNbI51ODA`VKB:]^7UD5?1
+!s85 0
+!s108 1609415337.964000
+!s107 C:/Users/zhengxjie/Desktop/DE2_LAB/work/cpu/RAM4KB.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/zhengxjie/Desktop/DE2_LAB/work/cpu|C:/Users/zhengxjie/Desktop/DE2_LAB/work/cpu/RAM4KB.v|
+!s101 -O0
+vROM4KB
+IQaHEOcM^_]cKQRmI6O5d03
+V`Jn4gX<9MO>=3We4g<diV3
+R1
+w1609294340
+8C:/Users/zhengxjie/Desktop/DE2_LAB/work/cpu/ROM4KB.v
+FC:/Users/zhengxjie/Desktop/DE2_LAB/work/cpu/ROM4KB.v
+L0 39
+R2
+r1
+31
+R3
+R4
+n@r@o@m4@k@b
+!i10b 1
+!s100 eE5K1ZiO8`fQOXXYQ2NL=1
+!s85 0
+!s108 1609415338.195000
+!s107 C:/Users/zhengxjie/Desktop/DE2_LAB/work/cpu/ROM4KB.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/zhengxjie/Desktop/DE2_LAB/work/cpu|C:/Users/zhengxjie/Desktop/DE2_LAB/work/cpu/ROM4KB.v|
+!s101 -O0
